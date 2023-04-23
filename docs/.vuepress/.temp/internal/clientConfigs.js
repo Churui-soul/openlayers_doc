@@ -5,7 +5,7 @@ import clientConfig3 from 'D:/Github/openlayers_doc/node_modules/.pnpm/@vuepress
 import clientConfig4 from 'D:/Github/openlayers_doc/node_modules/.pnpm/@vuepress+plugin-nprogress@2.0.0-beta.61/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'
 import clientConfig5 from 'D:/Github/openlayers_doc/node_modules/.pnpm/@vuepress+plugin-theme-data@2.0.0-beta.61/node_modules/@vuepress/plugin-theme-data/lib/client/config.js'
 import clientConfig6 from 'D:/Github/openlayers_doc/node_modules/.pnpm/@vuepress+theme-default@2.0.0-beta.61/node_modules/@vuepress/theme-default/lib/client/config.js'
-import clientConfig7 from 'D:/Github/openlayers_doc/docs/.vuepress/.temp/register-components/clientConfig.6fa512d1.js'
+import clientConfig7 from 'D:/Github/openlayers_doc/docs/.vuepress/.temp/register-components/clientConfig.40dde236.js'
 
 export const clientConfigs = [
   clientConfig0,

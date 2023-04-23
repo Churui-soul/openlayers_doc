@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-47ac6c79\",\"path\":\"/animation/gif.html\",\"title\":\"GIF\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"animation/gif.md\"}")
